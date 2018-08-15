@@ -1,2 +1,0 @@
-# SuvoTest
-Testing for Pip
