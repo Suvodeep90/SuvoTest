@@ -22,7 +22,7 @@
         },
         {
             "location": "/about/",
-            "text": "",
+            "text": "This is the about page. Please enter your credentials for the authentication. Then install the package and then you will be able to access the system.",
             "title": "About"
         }
     ]
